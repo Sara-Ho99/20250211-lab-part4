@@ -6,4 +6,4 @@
 
 ## Netlify
 
-magnificent-vacherin-1d8f22
+magnificent-vacherin-1d8f22 --- *site deleted*
